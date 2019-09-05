@@ -1,2 +1,27 @@
 # Peripheral-MEC1501
 Microchip MEC1501 peripheral CMSIS style header files
+
+Microchip CPG MEC1501 Peripheral Library
+
+Origin: Microchip CPG
+
+Status: version 0.2
+
+Purpose: Official peripheral firmware library for MEC1501
+
+Description: Microchip MEC1501 Perihperal Library provides a set of low-level header files to configure and use MEC1501 hardware peripheral blocks.
+
+URL: https://github.com/MicrochipTech/Peripheral-MEC1501
+
+commit: n/a
+
+Maintained-by: Microchip CPG FW team
+
+License: Apache-2.0
+
+License Link: https://www.apache.org/licenses/LICENSE-2.0
+
+Patch List:
+Update this README.md
+Add header files.
+
