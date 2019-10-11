@@ -5,7 +5,7 @@ Microchip CPG MEC1501 Peripheral Library
 
 Origin: Microchip CPG
 
-Status: version 0.2
+Status: version 0.3
 
 Purpose: Official peripheral firmware library for MEC1501
 
@@ -24,4 +24,10 @@ License Link: https://www.apache.org/licenses/LICENSE-2.0
 Patch List:
 Update this README.md
 Add header files.
+
+v0.3
+Add array register access to identical arrays of registers in ADC, DMA, ECIA,
+GPIO, and QMSPI.
+Remove unnecessary semi-colons from ESPI_IO.
+Remove unnecessary casting from regaccess.h
 
