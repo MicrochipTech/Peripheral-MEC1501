@@ -35,3 +35,6 @@ v0.4
 Re-name KBC register structure register at offset 0x330 to "ACTV" to match
 MEC1501 device inventory chapter.
 
+v0.5
+Fix missing GIRQ22 in ECIA enumeration.
+
