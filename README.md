@@ -5,7 +5,7 @@ Microchip CPG MEC1501 Peripheral Library
 
 Origin: Microchip CPG
 
-Status: version 0.3
+Status: version 0.6
 
 Purpose: Official peripheral firmware library for MEC1501
 
@@ -38,3 +38,8 @@ MEC1501 device inventory chapter.
 v0.5
 Fix missing GIRQ22 in ECIA enumeration.
 
+v0.6
+For each GIRQ add bit definitions for each interrupt source.
+Add BIT() macro if not defined.
+Add peripheral instance macros.
+Synchronize with hal_microchip. 
